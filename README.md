@@ -1,4 +1,5 @@
-..Gevulde Paprika's Recept..
+Gevulde Paprika's Recept
+
 Ingrediënten
 4 grote paprika's (rood, geel, groen of oranje)
 250g gehakt (rundvlees, kip of vegetarisch alternatief)
