@@ -1,6 +1,6 @@
-#Gevulde Paprika's Recept
+# Gevulde Paprika's Recept
 
-##Ingrediënten
+## Ingrediënten
 4 grote paprika's (rood, geel, groen of oranje)
 250g gehakt (rundvlees, kip of vegetarisch alternatief)
 1 ui, fijngehakt
@@ -14,7 +14,7 @@
 Zout en peper naar smaak
 Geraspte kaas (optioneel, voor garnering)
 
-###Instructies
+### Instructies
 1 Verwarm de oven voor op 200 graden Celsius.
 
 2 Snijd de bovenkant van de paprika's af en verwijder de zaadjes en zaadlijsten. Zet de paprika's opzij.
