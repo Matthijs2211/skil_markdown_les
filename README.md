@@ -1,4 +1,4 @@
-Gevulde Paprika's Recept
+__Gevulde Paprika's Recept__
 
 Ingrediënten
 4 grote paprika's (rood, geel, groen of oranje)
@@ -14,7 +14,7 @@ Ingrediënten
 Zout en peper naar smaak
 Geraspte kaas (optioneel, voor garnering)
 
-Instructies
+**Instructies**
 Verwarm de oven voor op 200 graden Celsius.
 
 Snijd de bovenkant van de paprika's af en verwijder de zaadjes en zaadlijsten. Zet de paprika's opzij.
