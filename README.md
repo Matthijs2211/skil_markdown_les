@@ -29,6 +29,7 @@ Geraspte kaas (optioneel, voor garnering)
 
 7 Als je van kaas houdt, strooi dan wat geraspte kaas over de gevulde paprika's.
 
+https://www.lowcarbchef.nl/recept/gevulde-paprikas-met-gehakt
 Bak de gevulde paprika's in de voorverwarmde oven gedurende 20-25 minuten, of tot de paprika's zacht zijn en de kaas gesmolten en goudbruin is.
 
 Haal de gevulde paprika's uit de oven en laat ze een paar minuten afkoelen voordat je ze serveert.
